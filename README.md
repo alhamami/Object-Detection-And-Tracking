@@ -1,4 +1,4 @@
-# <div align="center">Simple Object Tracking</div>
+# <div align="center">Object-Detection-And-Tracking</div>
 
 <div align="center">
 <p>Multi-Object Tracking with YOLOv5, CLIP, DINO and DeepSORT</p>
@@ -15,6 +15,8 @@ Normally, in DeepSORT, the deep part of the model is trained on a person re-iden
 
 SOTA models like [CLIP](https://arxiv.org/abs/2103.00020) (zero-shot) and [DINO](https://arxiv.org/abs/2104.14294v2) (SSL) are currently experimented. If better models come out, I will consider adding it. 
 
+## GUI
+<img src="gifs/GUI-1.PNG" width="270"/> <img src="gifs/GUI-2.PNG" width="270"/> <img src="gifs/GUI-3.PNG" width="270"/>
 ## Requirements
 
 * torch >= 1.8.1
