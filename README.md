@@ -16,7 +16,7 @@ Normally, in DeepSORT, the deep part of the model is trained on a person re-iden
 SOTA models like [CLIP](https://arxiv.org/abs/2103.00020) (zero-shot) and [DINO](https://arxiv.org/abs/2104.14294v2) (SSL) are currently experimented. If better models come out, I will consider adding it. 
 
 ## GUI
-<img src="gifs/GUI-2.PNG" height = 260 width="270"/> <img src="gifs/GUI-3.PNG" height = 260 width="270"/>
+<img src="gifs/GUI-2.PNG" height = 260 width="270"/> <img src="gifs/GUI-3.PNG" height = 260 width="270"/> <br>
 <img src="gifs/GUI-1.PNG" width="270"/>
 ## Requirements
 
